@@ -1,0 +1,6 @@
+fastapi
+assemblyai
+python-decouple
+requests
+moviepy
+uvicorn
